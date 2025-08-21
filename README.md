@@ -2,7 +2,7 @@
 
 - Ever needed to export 3rd party drivers to use in a Recovery image like [Hiren's Boot CD](https://www.hirensbootcd.org/)?
 - Ever needed a backup of that elusive 3rd party driver you can't source anymore?
-- Or you've already exported drivers using DISM or Powershell but have no clue what mbedcomposite_x64.inf_amd64_67eb7e5c383aa11b & ssudobex.inf_amd64_1dd3a2846c69bed0 relates to?
+- Or you've already exported drivers using DISM or Powershell but have no clue what device `mbedcomposite_x64.inf_amd64_67eb7e5c383aa11b` & `ssudobex.inf_amd64_1dd3a2846c69bed0` is even remotely related to?
 
 This handy script exports your Windows drivers, then organizes them with meaningful folder names based on manufacturer, device class, and version information. It'll then give you a [summary text file at the end (sample here).](Sample_DriverMapping.txt)
 
