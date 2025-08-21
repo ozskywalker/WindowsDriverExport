@@ -56,7 +56,38 @@ Exports drivers to `C:\DriversExport` and renames folders with meaningful names.
 | `NoRename` | Switch | False | Generate report only, don't rename folders |
 | `Verbose` | Switch | False | Enable verbose output |
 
-## Output
+## How to inject drivers on Hiren's Boot CD or ISO
+
+### Method 1: Hiren's Boot CD -- Win 10/11 PE
+
+1. Extract your drivers using the WindowsDriverExport.ps1 script
+2. Insert Hiren's BootCD PE USB into your machine
+3. Copy & paste the drivers you want, from the export folder, directly into the `CustomDrivers` folder on the root of the Hiren USB
+
+When you boot Hiren's PE, drivers in the `CustomDrivers` folder are loaded after the desktop appears (may take time based on USB speed & number of drivers)
+
+### Method 2: Direct Integration using DISM
+
+1. Extract your drivers using the WindowsDriverExport.ps1 script
+2. Insert Hiren's BootCD PE USB into your machine
+3. Mount the boot.wim image via Command Prompt or Terminal, and replace E: with actual drive letter for Hiren USB stick)
+```bat
+mkdir C:\hbcd_pe
+dism /cleanup-wim
+dism /Mount-Wim /WimFile:E:\sources\boot.wim /index:1 /MountDir:C:\hbcd_pe
+```
+4. Add drivers:
+```bat
+dism /Image:C:\hbcd_pe /Add-Driver /Driver:C:\DriversExport /recurse
+```
+5. Commit changes and unmount
+```bat
+dism /Unmount-Wim /MountDir:C:\hbcd_pe /Commit
+dism /cleanup-wim
+rmdir C:\hbcd_pe
+```
+
+## What does the output look like?
 
 ### Folder Structure (After Renaming)
 
