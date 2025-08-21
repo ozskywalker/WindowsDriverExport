@@ -1,0 +1,7 @@
+[Version]
+; INF with Unicode and non-ASCII characters
+Signature="$WINDOWS NT$"
+Provider=Société_Français_Ñoño
+Class=Printers & Scanners
+ClassGuid={4D36E979-E325-11CE-BFC1-08002BE10318}
+DriverVer=01/01/2024

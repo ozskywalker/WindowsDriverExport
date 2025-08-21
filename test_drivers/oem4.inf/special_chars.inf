@@ -1,0 +1,6 @@
+[Version]
+Signature="$WINDOWS NT$"
+Provider="Company/With<>Special:Characters*?|\"
+Class="Network adapters with very long name that exceeds normal limits and contains special characters like & and #"
+ClassGuid={4D36E972-E325-11CE-BFC1-08002BE10318}
+DriverVer=12/31/2023,1.0.0.0

@@ -1,0 +1,9 @@
+[Version]
+Signature="$WINDOWS NT$"
+Provider=NVIDIA
+Class=Display
+ClassGuid={4D36E968-E325-11CE-BFC1-08002BE10318}
+DriverVer=06/21/2023,30.0.15.1179
+
+[Strings]
+NVIDIA="NVIDIA Corporation"

@@ -1,0 +1,1387 @@
+﻿Driver Export Mapping Report
+Generated: 2025-08-21 23:20:29
+Export Path: G:\driver_export
+Total Drivers Processed: 129
+
+================================================================================
+
+Original Folder: adafruitcircuitplayground.inf_amd64_2d02d0acf109024b
+New Folder:      Adafruit_Industries_LLC_Ports_adafruitcircuitplayg
+INF File:        adafruitcircuitplayground.inf
+Manufacturer:    Adafruit Industries LLC
+Device Class:    Ports
+Version:         6.2.2600.0
+Date:            02/25/2016
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: adobepdf.inf_amd64_70cb20a3417216e2
+New Folder:      Adobe_Printer_adobepdf_9.5.0000.0
+INF File:        adobepdf.inf
+Manufacturer:    Adobe
+Device Class:    Printer
+Version:         9.5.0000.0
+Date:            08/19/2010
+Class GUID:      4D36E979-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: adobepdf.inf_amd64_26385cc36506e94a
+New Folder:      Adobe_Printer_adobepdf_9.8.0000.0
+INF File:        adobepdf.inf
+Manufacturer:    Adobe
+Device Class:    Printer
+Version:         9.8.0000.0
+Date:            03/25/2013
+Class GUID:      4D36E979-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: arduino-samd.inf_amd64_1ade7338bf8f048e
+New Folder:      Arduino_AG_(www.arduino.cc)_Ports_arduino-samd_1.4
+INF File:        arduino-samd.inf
+Manufacturer:    Arduino AG (www.arduino.cc)
+Device Class:    Ports
+Version:         1.4.3.0
+Date:            07/08/2019
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: genuino-samd.inf_amd64_e9adb01b9276e454
+New Folder:      Arduino_LLC_(www.arduino.cc)_Ports_genuino-samd_1.
+INF File:        genuino-samd.inf
+Manufacturer:    Arduino LLC (www.arduino.cc)
+Device Class:    Ports
+Version:         1.0.0.0
+Date:            02/11/2016
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: arduino.inf_amd64_f9ccd9c82d0e09d1
+New Folder:      Arduino_LLC_(www.arduino.cc)_Ports_arduino_1.2.3.0
+INF File:        arduino.inf
+Manufacturer:    Arduino LLC (www.arduino.cc)
+Device Class:    Ports
+Version:         1.2.3.0
+Date:            11/24/2015
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: genuino.inf_amd64_7ce493bc08c7f4df
+New Folder:      Arduino_LLC_(www.arduino.cc)_Ports_genuino_1.0.3.0
+INF File:        genuino.inf
+Manufacturer:    Arduino LLC (www.arduino.cc)
+Device Class:    Ports
+Version:         1.0.3.0
+Date:            01/07/2016
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: arduino-org.inf_amd64_bb8d72653e2c9162
+New Folder:      Arduino_Srl_(www.arduino.org)_Ports_arduino-org_1.
+INF File:        arduino-org.inf
+Manufacturer:    Arduino Srl (www.arduino.org)
+Device Class:    Ports
+Version:         1.1.1.0
+Date:            03/19/2015
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: medbg_virtual_com_port.inf_amd64_54f457adc1cb47ec
+New Folder:      Atmel_Corp._Ports_medbg_virtual_com_port_6.0.0.1
+INF File:        medbg_virtual_com_port.inf
+Manufacturer:    Atmel Corp.
+Device Class:    Ports
+Version:         6.0.0.1
+Date:            06/14/2013
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: medbg_virtual_com_port.inf_amd64_759c74acbd696fe0
+New Folder:      Atmel_Corp._Ports_medbg_virtual_com_port_6.0.0.1_1
+INF File:        medbg_virtual_com_port.inf
+Manufacturer:    Atmel Corp.
+Device Class:    Ports
+Version:         6.0.0.1
+Date:            06/14/2013
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: bsq16av.inf_amd64_37d020648078eb63
+New Folder:      Brother_Printer_bsq16av_1.09.00.00
+INF File:        bsq16av.inf
+Manufacturer:    Brother
+Device Class:    Printer
+Version:         1.09.00.00
+Date:            10/24/2022
+Class GUID:      4D36E979-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: cnq4809.inf_amd64_2bb0a0a7b1e23922
+New Folder:      Canon_Image_cnq4809_17.0.5.29
+INF File:        cnq4809.inf
+Manufacturer:    Canon
+Device Class:    Image
+Version:         17.0.5.29
+Date:            03/11/2016
+Class GUID:      6bdd1fc6-810f-11d0-bec7-08002be2092f
+----------------------------------------
+
+Original Folder: prndlclf.inf_amd64_0deeaf458a1a2289
+New Folder:      Dell_Printer_prndlclf_10.0.16299.15
+INF File:        prndlclf.inf
+Manufacturer:    Dell
+Device Class:    Printer
+Version:         10.0.16299.15
+Date:            04/21/2009
+Class GUID:      4D36E979-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: dellinstrumentation.inf_amd64_7aa73d4556ce4282
+New Folder:      Dell_Technologies_DellInstrumentation_dellinstrume_1
+INF File:        dellinstrumentation.inf
+Manufacturer:    Dell Technologies
+Device Class:    DellInstrumentation
+Version:         2.9.0.1
+Date:            03/19/2024
+Class GUID:      E1C7DABE-63DE-4630-A4DE-A4ADC0503BE3
+----------------------------------------
+
+Original Folder: dellinstrumentation.inf_amd64_4e7f6b2eda5f3215
+New Folder:      Dell_Technologies_DellInstrumentation_dellinstrume
+INF File:        dellinstrumentation.inf
+Manufacturer:    Dell Technologies
+Device Class:    DellInstrumentation
+Version:         2.8.9.4
+Date:            08/25/2023
+Class GUID:      E1C7DABE-63DE-4630-A4DE-A4ADC0503BE3
+----------------------------------------
+
+Original Folder: dellinstrumentation.inf_amd64_f00aa33cb0c8e8f6
+New Folder:      Dell_Technologies_DellInstrumentation_dellinstrume_2
+INF File:        dellinstrumentation.inf
+Manufacturer:    Dell Technologies
+Device Class:    DellInstrumentation
+Version:         2.9.1.0
+Date:            09/19/2024
+Class GUID:      E1C7DABE-63DE-4630-A4DE-A4ADC0503BE3
+----------------------------------------
+
+Original Folder: dddriver64dcsa.inf_amd64_3bed6326b6d247ae
+New Folder:      Dell_Technologies_System_dddriver64dcsa_2.0.6.0
+INF File:        dddriver64dcsa.inf
+Manufacturer:    Dell Technologies
+Device Class:    System
+Version:         2.0.6.0
+Date:            07/26/2021
+Class GUID:      4D36E97D-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: dbutildrv2.inf_amd64_7abc468ebf353252
+New Folder:      Dell_Technologies__;TODO__Replace_with_your_manufa
+INF File:        dbutildrv2.inf
+Manufacturer:    Dell Technologies" ;TODO: Replace with your manufacturer name
+Device Class:    DellUtils ; TODO: edit Class
+Version:         2.7.0.0
+Date:            05/06/2021
+Class GUID:      E0DEF58B-33E8-4FF0-A75D-F20E1F68E5D7
+----------------------------------------
+
+Original Folder: winusb.inf_amd64_40de722ca9cd3a3a
+New Folder:      dji-innovations_inc._USBDevice_winusb_13.54.20.543
+INF File:        winusb.inf
+Manufacturer:    dji-innovations inc.
+Device Class:    USBDevice
+Version:         13.54.20.543
+Date:            03/03/2016
+Class GUID:      88BAE032-5A81-49f0-BC3D-A4FF138216D6
+----------------------------------------
+
+Original Folder: vrtaucbl.inf_amd64_b6ad8e3ca7019a78
+New Folder:      Eugene_Muzychenko_MEDIA_vrtaucbl_4.65.0.11534
+INF File:        vrtaucbl.inf
+Manufacturer:    Eugene Muzychenko
+Device Class:    MEDIA
+Version:         4.65.0.11534
+Date:            01/21/2021
+Class GUID:      4d36e96c-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: vrtaucbl.inf_amd64_540e2d9b88370326
+New Folder:      EuMus_Design_MEDIA_vrtaucbl_4.13.0.5811
+INF File:        vrtaucbl.inf
+Manufacturer:    EuMus Design
+Device Class:    MEDIA
+Version:         4.13.0.5811
+Date:            07/23/2013
+Class GUID:      4d36e96c-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: ftdiport.inf_amd64_02e6e8b10f1ee812
+New Folder:      FTDI_Ports_ftdiport_2.12.36.4
+INF File:        ftdiport.inf
+Manufacturer:    FTDI
+Device Class:    Ports
+Version:         2.12.36.4
+Date:            07/05/2021
+Class GUID:      4d36e978-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: ftdibus.inf_amd64_27ad3b85ed46c2a0
+New Folder:      FTDI_USB_ftdibus_2.12.36.4
+INF File:        ftdibus.inf
+Manufacturer:    FTDI
+Device Class:    USB
+Version:         2.12.36.4
+Date:            07/05/2021
+Class GUID:      36fc9e60-c465-11cf-8056-444553540000
+----------------------------------------
+
+Original Folder: ftdibus.inf_amd64_6e4bc27e9eea1739
+New Folder:      FTDI_USB_ftdibus_2.12.14
+INF File:        ftdibus.inf
+Manufacturer:    FTDI
+Device Class:    USB
+Version:         2.12.14
+Date:            01/22/2016
+Class GUID:      36fc9e60-c465-11cf-8056-444553540000
+----------------------------------------
+
+Original Folder: rockusb.inf_amd64_825439e082e089bc
+New Folder:      Fuzhou_Rockchip_Rockusb_Device_rockusb_4.20.0000
+INF File:        rockusb.inf
+Manufacturer:    Fuzhou Rockchip
+Device Class:    Rockusb Device
+Version:         4.20.0000
+Date:            11/10/2014
+Class GUID:      79DFC2A8-2574-493C-AE71-52958E41BB00
+----------------------------------------
+
+Original Folder: gpwfbp2.inf_amd64_f8b5093722857a8f
+New Folder:      GoPro_Universal_Serial_Bus_devices_gpwfbp2_%Date%
+INF File:        gpwfbp2.inf
+Manufacturer:    GoPro
+Device Class:    Universal Serial Bus devices
+Version:         %Date%
+Date:            Unknown
+Class GUID:      Unknown
+----------------------------------------
+
+Original Folder: mvu3v.inf_amd64_69f9be9a56e30428
+New Folder:      Hikvision_MvisionUSB_mvu3v_1.0.1.2
+INF File:        mvu3v.inf
+Manufacturer:    Hikvision
+Device Class:    MvisionUSB
+Version:         1.0.1.2
+Date:            05/31/2017
+Class GUID:      4FDB0853-7E97-4e4e-B7F8-64291188D4EC
+----------------------------------------
+
+Original Folder: icom_vaudio.inf_amd64_ebf0202f3afd9b6a
+New Folder:      Icom_Media_icom_vaudio_1.0.0.10
+INF File:        icom_vaudio.inf
+Manufacturer:    Icom
+Device Class:    Media
+Version:         1.0.0.10
+Date:            04/30/2010
+Class GUID:      4d36e96c-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: icom_vserial.inf_amd64_9332031fcd734e2f
+New Folder:      Icom_MultiportSerial_icom_vserial_1.0.0.6
+INF File:        icom_vserial.inf
+Manufacturer:    Icom
+Device Class:    MultiportSerial
+Version:         1.0.0.6
+Date:            03/25/2010
+Class GUID:      50906cb8-ba12-11d1-bf5d-0000f805f530
+----------------------------------------
+
+Original Folder: ic-7610_usb_iq.inf_amd64_6ae49b256245b03a
+New Folder:      Icom_Inc._USB_ic-7610_usb_iq_1.0.0.1
+INF File:        ic-7610_usb_iq.inf
+Manufacturer:    Icom Inc.
+Device Class:    USB
+Version:         1.0.0.1
+Date:            08/06/2018
+Class GUID:      36fc9e60-c465-11cf-8056-444553540000
+----------------------------------------
+
+Original Folder: igcl_ipf_provider_ext.inf_amd64_0940e3a9f7cb62b8
+New Folder:      Intel_Extension_igcl_ipf_provider_ext_16.0.0.730
+INF File:        igcl_IPF_provider_ext.inf
+Manufacturer:    Intel
+Device Class:    Extension
+Version:         16.0.0.730
+Date:            11/22/2024
+Class GUID:      e2f84ce7-8efa-411c-aa69-97454ca4cb57
+----------------------------------------
+
+Original Folder: socthermalprovider_ext.inf_amd64_714bde2f40f49563
+New Folder:      Intel_Extension_socthermalprovider_ext_03.02.1002.
+INF File:        SoCThermalProvider_ext.inf
+Manufacturer:    Intel
+Device Class:    Extension
+Version:         03.02.1002.0
+Date:            10/22/2024
+Class GUID:      e2f84ce7-8efa-411c-aa69-97454ca4cb57
+----------------------------------------
+
+Original Folder: netwbw02.inf_amd64_5b3218f02c0c8354
+New Folder:      Intel_net_netwbw02_18.20.0.9_;DATE_HAS_TO_BE_IN_FO
+INF File:        Netwbw02.inf
+Manufacturer:    Intel
+Device Class:    net
+Version:         18.20.0.9 ;DATE HAS TO BE IN FOLLOWING FORMAT MM/DD/YYYY
+Date:            08/23/2015
+Class GUID:      4d36e972-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: igcl_ipf_provider_sw.inf_amd64_7065e294aa3d2763
+New Folder:      Intel_SoftwareComponent_igcl_ipf_provider_sw_16.0.
+INF File:        igcl_IPF_provider_sw.inf
+Manufacturer:    Intel
+Device Class:    SoftwareComponent
+Version:         16.0.0.730
+Date:            11/22/2024
+Class GUID:      5c4c3332-344d-483c-8739-259e934c9cc8
+----------------------------------------
+
+Original Folder: socthermalprovider_sw.inf_amd64_d8d2967b40ed3b12
+New Folder:      Intel_SoftwareComponent_socthermalprovider_sw_03.0
+INF File:        SoCThermalProvider_sw.inf
+Manufacturer:    Intel
+Device Class:    SoftwareComponent
+Version:         03.02.1002.0
+Date:            10/22/2024
+Class GUID:      5c4c3332-344d-483c-8739-259e934c9cc8
+----------------------------------------
+
+Original Folder: heci.inf_amd64_7a37daa18a2c0756
+New Folder:      Intel_System_heci_11.0.0.1157
+INF File:        heci.inf
+Manufacturer:    Intel
+Device Class:    System
+Version:         11.0.0.1157
+Date:            07/07/2015
+Class GUID:      4d36e97d-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: ivybridgesystem.inf_amd64_8ca93f2eba72933d
+New Folder:      INTEL_System_ivybridgesystem_10.1.1.38
+INF File:        IvyBridgeSystem.inf
+Manufacturer:    INTEL
+Device Class:    System
+Version:         10.1.1.38
+Date:            10/03/2016
+Class GUID:      4D36E97D-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: pantherpointsystem.inf_amd64_0fd1cc3ae3dca2df
+New Folder:      INTEL_System_pantherpointsystem_10.1.1.38
+INF File:        PantherPointSystem.inf
+Manufacturer:    INTEL
+Device Class:    System
+Version:         10.1.1.38
+Date:            10/03/2016
+Class GUID:      4D36E97D-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: ibtusb.inf_amd64_576be89e7f88f5cd
+New Folder:      Intel_Corporation_Bluetooth_ibtusb_19.10.1635.0483
+INF File:        ibtusb.inf
+Manufacturer:    Intel Corporation
+Device Class:    Bluetooth
+Version:         19.10.1635.0483
+Date:            09/02/2016
+Class GUID:      e0cbf06c-cd8b-4647-bb8a-263b43f0f974
+----------------------------------------
+
+Original Folder: ibtusb.inf_amd64_9d1fc7a1fac14691
+New Folder:      Intel_Corporation_Bluetooth_ibtusb_17.1.1531.1764
+INF File:        ibtusb.inf
+Manufacturer:    Intel Corporation
+Device Class:    Bluetooth
+Version:         17.1.1531.1764
+Date:            07/31/2015
+Class GUID:      e0cbf06c-cd8b-4647-bb8a-263b43f0f974
+----------------------------------------
+
+Original Folder: kt115685.inf_amd64_45ea79b36512e36b
+New Folder:      Intel_Corporation_Display_kt115685_10.18.10.4425
+INF File:        kt115685.inf
+Manufacturer:    Intel Corporation
+Device Class:    Display
+Version:         10.18.10.4425
+Date:            04/04/2016
+Class GUID:      4D36E968-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: intelaud.inf_amd64_6f824331ba046583
+New Folder:      Intel_Corporation_MEDIA_intelaud_4.5.71.0
+INF File:        intelaud.inf
+Manufacturer:    Intel Corporation
+Device Class:    MEDIA
+Version:         4.5.71.0
+Date:            11/19/2015
+Class GUID:      4d36e96c-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: iastorac.inf_amd64_ecb9604542bb4ba6
+New Folder:      Intel_Corporation_SCSIAdapter_iastorac_17.5.3.1026
+INF File:        iastorac.inf
+Manufacturer:    Intel Corporation
+Device Class:    SCSIAdapter
+Version:         17.5.3.1026
+Date:            07/23/2019
+Class GUID:      4D36E97B-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: iwdbus.inf_amd64_7ce448aa115e3d2e
+New Folder:      Intel_Corporation_System_iwdbus_4.5.71.0
+INF File:        iwdbus.inf
+Manufacturer:    Intel Corporation
+Device Class:    System
+Version:         4.5.71.0
+Date:            11/19/2015
+Class GUID:      4D36E97D-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: flashusb.inf_amd64_d97dba44a43ee5a9
+New Folder:      Intel_Mobile_Communications_USB_flashusb_1.0.1.1
+INF File:        flashusb.inf
+Manufacturer:    Intel Mobile Communications
+Device Class:    USB
+Version:         1.0.1.1
+Date:            02/27/2013
+Class GUID:      36FC9E60-C465-11CF-8056-444553540000
+----------------------------------------
+
+Original Folder: intcdaud.inf_amd64_e094d70d4df6855c
+New Folder:      Intel(R)_Corporation_MEDIA_intcdaud_6.16.00.3154
+INF File:        intcdaud.inf
+Manufacturer:    Intel(R) Corporation
+Device Class:    MEDIA
+Version:         6.16.00.3154
+Date:            09/09/2014
+Class GUID:      4d36e96c-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: vision_(interface_3).inf_amd64_089ff2f979733fa2
+New Folder:      libusb-win32_libusb-win32_devices_vision_(interfac_1
+INF File:        vision_(interface_3).inf
+Manufacturer:    libusb-win32
+Device Class:    libusb-win32 devices
+Version:         4.7.1
+Date:            09/10/2019
+Class GUID:      EB781AAF-9C70-4523-A5DF-642A87ECA567
+----------------------------------------
+
+Original Folder: vision_(interface_3).inf_amd64_919a2de4c3274023
+New Folder:      libusb-win32_libusb-win32_devices_vision_(interfac
+INF File:        vision_(interface_3).inf
+Manufacturer:    libusb-win32
+Device Class:    libusb-win32 devices
+Version:         1.2.6.0
+Date:            01/18/2012
+Class GUID:      EB781AAF-9C70-4523-A5DF-642A87ECA567
+----------------------------------------
+
+Original Folder: arduino_gemma.inf_amd64_ccc1c03de7b2c57b
+New Folder:      libusb-win32_libusb-win32_devices_arduino_gemma_1.
+INF File:        arduino_gemma.inf
+Manufacturer:    libusb-win32
+Device Class:    libusb-win32 devices
+Version:         1.0.0.0
+Date:            04/21/2015
+Class GUID:      EB781AAF-9C70-4523-A5DF-642A87ECA567
+----------------------------------------
+
+Original Folder: cyusb3 (2017_05_13 16_35_01 utc).inf_amd64_28727af8265354fa
+New Folder:      Lime_Microsystems_USB_cyusb3_(2017_05_13_16_35_01
+INF File:        cyusb3 (2017_05_13 16_35_01 utc).inf
+Manufacturer:    Lime Microsystems
+Device Class:    USB
+Version:         1.2.3.14
+Date:            08/19/2015
+Class GUID:      36FC9E60-C465-11CF-8056-444553540000
+----------------------------------------
+
+Original Folder: linino.inf_amd64_b4d5b17e904a2353
+New Folder:      Linino_Ports_linino_1.0.0.0
+INF File:        linino.inf
+Manufacturer:    Linino
+Device Class:    Ports
+Version:         1.0.0.0
+Date:            01/13/2014
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: luvc1564v.inf_amd64_aeff11dd10837b27
+New Folder:      Logicool_Image_luvc1564v_1.1.135.0
+INF File:        luvc1564v.inf
+Manufacturer:    Logicool
+Device Class:    Image
+Version:         1.1.135.0
+Date:            06/21/2017
+Class GUID:      6bdd1fc6-810f-11d0-bec7-08002be2092f
+----------------------------------------
+
+Original Folder: luvc1564c.inf_amd64_fb12626ddadcbec3
+New Folder:      Logicool_USB_luvc1564c_1.2.75.34
+INF File:        luvc1564c.inf
+Manufacturer:    Logicool
+Device Class:    USB
+Version:         1.2.75.34
+Date:            01/31/2022
+Class GUID:      36FC9E60-C465-11CF-8056-444553540000
+----------------------------------------
+
+Original Folder: unifhid.inf_amd64_ba680b8596be64e8
+New Folder:      Logitech_HIDClass_unifhid_1.10.80.0
+INF File:        unifhid.inf
+Manufacturer:    Logitech
+Device Class:    HIDClass
+Version:         1.10.80.0
+Date:            08/24/2021
+Class GUID:      745a17a0-74d3-11d0-b6fe-00a0c90f57da
+----------------------------------------
+
+Original Folder: unifhid.inf_amd64_6332bfb86d4d76d6
+New Folder:      Logitech_HIDClass_unifhid_1.10.79.0
+INF File:        unifhid.inf
+Manufacturer:    Logitech
+Device Class:    HIDClass
+Version:         1.10.79.0
+Date:            03/10/2020
+Class GUID:      745a17a0-74d3-11d0-b6fe-00a0c90f57da
+----------------------------------------
+
+Original Folder: mbtun.inf_amd64_add82795013a7c3b
+New Folder:      Malwarebytes_Net_mbtun_1.0.0.0
+INF File:        mbtun.inf
+Manufacturer:    Malwarebytes
+Device Class:    Net
+Version:         1.0.0.0
+Date:            09/03/2020
+Class GUID:      4D36E972-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: mbedserial_x64.inf_amd64_8831146f4b8e3308
+New Folder:      mbed_Ports_mbedserial_x64_2.0.2.0_;_mm_dd_yyyy[,w.
+INF File:        mbedserial_x64.inf
+Manufacturer:    mbed
+Device Class:    Ports
+Version:         2.0.2.0  ; mm/dd/yyyy[,w.x.y.z]
+Date:            08/24/2009
+Class GUID:      4d36e978-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: mbedcomposite_x64.inf_amd64_67eb7e5c383aa11b
+New Folder:      mbed_USB_mbedcomposite_x64_1.0.0.0_;_mm_dd_yyyy[,w
+INF File:        mbedcomposite_x64.inf
+Manufacturer:    mbed
+Device Class:    USB
+Version:         1.0.0.0  ; mm/dd/yyyy[,w.x.y.z]
+Date:            08/24/2009
+Class GUID:      36fc9e60-c465-11cf-8056-444553540000
+----------------------------------------
+
+Original Folder: prnms009.inf_amd64_b1142994fb10cf54
+New Folder:      Microsoft_Printer_prnms009_10.0.19041.1806
+INF File:        prnms009.Inf
+Manufacturer:    Microsoft
+Device Class:    Printer
+Version:         10.0.19041.1806
+Date:            06/21/2006
+Class GUID:      4D36E979-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: prnms006.inf_amd64_c3bdcb6fc975b614
+New Folder:      Microsoft_Printer_prnms006_16.0.7629.4000
+INF File:        prnms006.inf
+Manufacturer:    Microsoft
+Device Class:    Printer
+Version:         16.0.7629.4000
+Date:            11/29/2016
+Class GUID:      4D36E979-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: prnms001.inf_amd64_7f3c60b255c53241
+New Folder:      Microsoft_Printer_prnms001_10.0.19041.1806
+INF File:        prnms001.Inf
+Manufacturer:    Microsoft
+Device Class:    Printer
+Version:         10.0.19041.1806
+Date:            06/21/2006
+Class GUID:      4D36E979-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: wcebth.inf_amd64_92cde66e1cfb521e
+New Folder:      Microsoft_Corporation_Bluetooth_wcebth_6.1.6965.0
+INF File:        wcebth.inf
+Manufacturer:    Microsoft Corporation
+Device Class:    Bluetooth
+Version:         6.1.6965.0
+Date:            05/31/2007
+Class GUID:      e0cbf06c-cd8b-4647-bb8a-263b43f0f974
+----------------------------------------
+
+Original Folder: wcerndis.inf_amd64_7f46c8a40bd97188
+New Folder:      Microsoft_Corporation_Net_wcerndis_6.1.6965.0
+INF File:        wcerndis.inf
+Manufacturer:    Microsoft Corporation
+Device Class:    Net
+Version:         6.1.6965.0
+Date:            05/31/2007
+Class GUID:      4d36e972-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: wceusbsh.inf_amd64_ed7e79d05f4c4512
+New Folder:      Microsoft_Corporation_WCEUSBS_wceusbsh_6.1.6965.0
+INF File:        wceusbsh.inf
+Manufacturer:    Microsoft Corporation
+Device Class:    WCEUSBS
+Version:         6.1.6965.0
+Date:            05/31/2007
+Class GUID:      25dbce51-6c8f-4a72-8a6d-b54c2b4fc835
+----------------------------------------
+
+Original Folder: wpdrapi.inf_amd64_a093053dd72737eb
+New Folder:      Microsoft_Corporation_WPD_wpdrapi_6.1.6965.0
+INF File:        wpdrapi.inf
+Manufacturer:    Microsoft Corporation
+Device Class:    WPD
+Version:         6.1.6965.0
+Date:            05/31/2007
+Class GUID:      EEC5AD98-8080-425f-922A-DABF3DE3F69A
+----------------------------------------
+
+Original Folder: mvu2camera.inf_amd64_ef9280f7689838c4
+New Folder:      MindVision_Image_mvu2camera_3.0.0.142
+INF File:        mvu2camera.inf
+Manufacturer:    MindVision
+Device Class:    Image
+Version:         3.0.0.142
+Date:            11/12/2019
+Class GUID:      6bdd1fc6-810f-11d0-bec7-08002be2092f
+----------------------------------------
+
+Original Folder: mvgigedriverlwf.inf_amd64_9e7c797f48aacd19
+New Folder:      MindVision_NetService_mvgigedriverlwf_1.5.2.58
+INF File:        mvgigedriverlwf.inf
+Manufacturer:    MindVision
+Device Class:    NetService
+Version:         1.5.2.58
+Date:            12/28/2020
+Class GUID:      4D36E974-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: hspusb.inf_amd64_aa9384c434d5a484
+New Folder:      MobileTop_USB_hspusb_2.1.2.0
+INF File:        hspusb.inf
+Manufacturer:    MobileTop
+Device Class:    USB
+Version:         2.1.2.0
+Date:            08/18/2009
+Class GUID:      36fc9e60-c465-11cf-8056-444553540000
+----------------------------------------
+
+Original Folder: nvdmi.inf_amd64_fad4db87aeb294c4
+New Folder:      NVIDIA_Display_nvdmi_23.21.13.8813
+INF File:        nvdmi.inf
+Manufacturer:    NVIDIA
+Device Class:    Display
+Version:         23.21.13.8813
+Date:            10/27/2017
+Class GUID:      4D36E968-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: nvvad.inf_amd64_c5a82cf57247a9b6
+New Folder:      NVIDIA_MEDIA_nvvad_4.02.2
+INF File:        nvvad.inf
+Manufacturer:    NVIDIA
+Device Class:    MEDIA
+Version:         4.02.2
+Date:            09/19/2017
+Class GUID:      4d36e96c-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: nvstusb.inf_amd64_ae185ef41c0313af
+New Folder:      NVIDIA_USB_nvstusb_6.14.13.6904
+INF File:        nvstusb.inf
+Manufacturer:    NVIDIA
+Device Class:    USB
+Version:         6.14.13.6904
+Date:            08/01/2016
+Class GUID:      36FC9E60-C465-11CF-8056-444553540000
+----------------------------------------
+
+Original Folder: nvhda.inf_amd64_9fb9ca6ebbf0a797
+New Folder:      NVIDIA_Corporation_MEDIA_nvhda_1.3.34.15
+INF File:        nvhda.inf
+Manufacturer:    NVIDIA Corporation
+Device Class:    MEDIA
+Version:         1.3.34.15
+Date:            08/01/2016
+Class GUID:      4d36e96c-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: planetcnc.inf_amd64_0fae62ac831309ab
+New Folder:      PlanetCNC_PlanetCNC_planetcnc_22.08.24.1
+INF File:        PlanetCNC.inf
+Manufacturer:    PlanetCNC
+Device Class:    PlanetCNC
+Version:         22.08.24.1
+Date:            08/24/2022
+Class GUID:      0B781AAF-9C70-4523-A5DF-642A87ECA567
+----------------------------------------
+
+Original Folder: planetcnc.inf_amd64_30218bfe003b42e3
+New Folder:      PlanetCNC_PlanetCNC_planetcnc_1.0.0.1
+INF File:        planetcnc.inf
+Manufacturer:    PlanetCNC
+Device Class:    PlanetCNC
+Version:         1.0.0.1
+Date:            03/27/2017
+Class GUID:      0B781AAF-9C70-4523-A5DF-642A87ECA567
+----------------------------------------
+
+Original Folder: pokeysdevice.inf_amd64_c09fca2d6c14ff76
+New Folder:      PoLabs_d.o.o._PoLabsDOO_pokeysdevice_9.1.6.0
+INF File:        pokeysdevice.inf
+Manufacturer:    PoLabs d.o.o.
+Device Class:    PoLabsDOO
+Version:         9.1.6.0
+Date:            06/01/2018
+Class GUID:      B8043650-07E9-447F-96EF-011DD9A71C6E
+----------------------------------------
+
+Original Folder: plser.inf_amd64_1becc29bec0339ff
+New Folder:      Prolific_Ports_plser_5.1.6.0
+INF File:        plser.inf
+Manufacturer:    Prolific
+Device Class:    Ports
+Version:         5.1.6.0
+Date:            04/13/2023
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: ser2pl.inf_amd64_b55366533635a4c6
+New Folder:      Prolific_Ports_ser2pl_3.8.42.0
+INF File:        ser2pl.inf
+Manufacturer:    Prolific
+Device Class:    Ports
+Version:         3.8.42.0
+Date:            02/22/2023
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: rtspstorxsdo.inf_amd64_9aab8cd9be6bd8bc
+New Folder:      Realtek_Semiconduct_Corp._MTD_rtspstorxsdo_6.3.960
+INF File:        rtspstorxsdo.inf
+Manufacturer:    Realtek Semiconduct Corp.
+Device Class:    MTD
+Version:         6.3.9600.28156
+Date:            05/15/2015
+Class GUID:      4d36e970-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: hdxsgma4.inf_amd64_67e758791d8608ce
+New Folder:      Realtek_Semiconductor_Corp._MEDIA_hdxsgma4_6.0.1.7
+INF File:        hdxsgma4.inf
+Manufacturer:    Realtek Semiconductor Corp.
+Device Class:    MEDIA
+Version:         6.0.1.7544
+Date:            06/24/2015
+Class GUID:      4d36e96c-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: ss_bmdm2.inf_amd64_0b4d9aff4bff4834
+New Folder:      Samsung_Electronics_Co.,_LTD_Modem_ss_bmdm2_5.00.0
+INF File:        ss_bmdm2.inf
+Manufacturer:    Samsung Electronics Co., LTD
+Device Class:    Modem
+Version:         5.00.0.0
+Date:            09/19/2009
+Class GUID:      4d36e96d-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: ss_bsdm2.inf_amd64_0a371e51eb1c4f49
+New Folder:      Samsung_Electronics_Co.,_LTD_Ports_ss_bsdm2_5.00.0
+INF File:        ss_bsdm2.inf
+Manufacturer:    Samsung Electronics Co., LTD
+Device Class:    Ports
+Version:         5.00.0.0
+Date:            09/19/2009
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: ss_bbus.inf_amd64_c15b1b62bb89ce93
+New Folder:      Samsung_Electronics_Co.,_LTD_USB_ss_bbus_5.00.0.0
+INF File:        ss_bbus.inf
+Manufacturer:    Samsung Electronics Co., LTD
+Device Class:    USB
+Version:         5.00.0.0
+Date:            09/19/2009
+Class GUID:      36FC9E60-c465-11cf-8056-444553540000
+----------------------------------------
+
+Original Folder: ssudadb.inf_amd64_814df3828b3139d5
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._AndroidUsbDeviceClas
+INF File:        ssudadb.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    AndroidUsbDeviceClass
+Version:         2.11.11.0
+Date:            11/26/2014
+Class GUID:      3F966BD9-FA04-4ec5-991C-D326973B5128
+----------------------------------------
+
+Original Folder: ssadmdm2.inf_amd64_b5075b7201db4d33
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._Modem_ssadmdm2_5.30.
+INF File:        ssadmdm2.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    Modem
+Version:         5.30.14.0
+Date:            11/30/2012
+Class GUID:      4d36e96d-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: ssudmdm.inf_amd64_85ed24214db389b6
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._Modem_ssudmdm_2.19.1
+INF File:        ssudmdm.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    Modem
+Version:         2.19.1.0
+Date:            09/26/2022
+Class GUID:      4d36e96d-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: sscemdm2.inf_amd64_1cd6ca3a990488e8
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._Modem_sscemdm2_5.30.
+INF File:        sscemdm2.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    Modem
+Version:         5.30.14.0
+Date:            11/30/2012
+Class GUID:      4d36e96d-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: sscdw2k.inf_amd64_f48efff429c0e6e6
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._Modem_sscdw2k_5.30.1
+INF File:        sscdw2k.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    Modem
+Version:         5.30.14.0
+Date:            11/30/2012
+Class GUID:      4d36e96d-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: ssudqcnet.inf_amd64_3dd4e1926c5f2c2d
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._Net_ssudqcnet_2.11.1
+INF File:        ssudqcnet.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    Net
+Version:         2.11.11.0
+Date:            11/24/2014
+Class GUID:      4d36e972-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: ssudrnds.inf_amd64_c6dc5d6f6dd09342
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._Net_ssudrnds_2.11.11
+INF File:        ssudrnds.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    Net
+Version:         2.11.11.0
+Date:            11/26/2014
+Class GUID:      4d36e972-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: ssudnd5.inf_amd64_5bc1c15e0c51fa14
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._Net_ssudnd5_2.11.11.
+INF File:        ssudnd5.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    Net
+Version:         2.11.11.0
+Date:            11/26/2014
+Class GUID:      4d36e972-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: ssadndis.inf_amd64_e9af21b3b969d2c2
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._Net_ssadndis_5.28.2.
+INF File:        ssadndis.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    Net
+Version:         5.28.2.1
+Date:            05/13/2011
+Class GUID:      4d36e972-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: ssudserd.inf_amd64_91c32558267c73d1
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._Ports_ssudserd_2.11.
+INF File:        ssudserd.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    Ports
+Version:         2.11.11.0
+Date:            11/26/2014
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: sscdsdm2.inf_amd64_07fee7b708133a6e
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._Ports_sscdsdm2_5.30.
+INF File:        sscdsdm2.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    Ports
+Version:         5.30.14.0
+Date:            11/30/2012
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: sscesdm2.inf_amd64_9c98d2002db09ad8
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._Ports_sscesdm2_5.30.
+INF File:        sscesdm2.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    Ports
+Version:         5.30.14.0
+Date:            11/30/2012
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: ssadsdm2.inf_amd64_02a00ea81ecfc2c7
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._Ports_ssadsdm2_5.30.
+INF File:        ssadsdm2.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    Ports
+Version:         5.30.14.0
+Date:            11/30/2012
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: ssuddmgr.inf_amd64_66f40cab144a6d89
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._Ports_ssuddmgr_2.11.
+INF File:        ssuddmgr.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    Ports
+Version:         2.11.11.0
+Date:            11/26/2014
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: ssudobex.inf_amd64_1dd3a2846c69bed0
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._Ports_ssudobex_2.11.
+INF File:        ssudobex.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    Ports
+Version:         2.11.11.0
+Date:            11/26/2014
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: sscdbus.inf_amd64_3fa17917ff077f1a
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._USB_sscdbus_5.30.14.
+INF File:        sscdbus.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    USB
+Version:         5.30.14.0
+Date:            11/30/2012
+Class GUID:      36FC9E60-c465-11cf-8056-444553540000
+----------------------------------------
+
+Original Folder: ssudmarv.inf_amd64_4cd13171ad58436a
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._USB_ssudmarv_2.11.11
+INF File:        ssudmarv.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    USB
+Version:         2.11.11.0
+Date:            11/26/2014
+Class GUID:      36FC9E60-C465-11CF-8056-444553540000
+----------------------------------------
+
+Original Folder: sscebus.inf_amd64_e27064ab44471ca5
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._USB_sscebus_5.30.14.
+INF File:        sscebus.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    USB
+Version:         5.30.14.0
+Date:            11/30/2012
+Class GUID:      36FC9E60-c465-11cf-8056-444553540000
+----------------------------------------
+
+Original Folder: ssadbus.inf_amd64_65e237cf1677ddeb
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._USB_ssadbus_5.30.14.
+INF File:        ssadbus.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    USB
+Version:         5.30.14.0
+Date:            11/30/2012
+Class GUID:      36FC9E60-c465-11cf-8056-444553540000
+----------------------------------------
+
+Original Folder: ssudsdb.inf_amd64_679a236c99ab3583
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._USB_ssudsdb_2.11.11.
+INF File:        ssudsdb.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    USB
+Version:         2.11.11.0
+Date:            11/26/2014
+Class GUID:      36FC9E60-c465-11cf-8056-444553540000
+----------------------------------------
+
+Original Folder: ssudeadb.inf_amd64_4b523ac1e41fdc73
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._USB_ssudeadb_2.11.11
+INF File:        ssudeadb.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    USB
+Version:         2.11.11.0
+Date:            11/26/2014
+Class GUID:      F72FE0D4-CBCB-407d-8814-9ED673D0DD6B
+----------------------------------------
+
+Original Folder: ssudbus.inf_amd64_76330fadf036c230
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._USB_ssudbus_2.19.1.0
+INF File:        ssudbus.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    USB
+Version:         2.19.1.0
+Date:            09/26/2022
+Class GUID:      36FC9E60-c465-11cf-8056-444553540000
+----------------------------------------
+
+Original Folder: ss_conn_usb_driver.inf_amd64_1d17057b7607c62e
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._USB_ss_conn_usb_driv
+INF File:        ss_conn_usb_driver.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    USB
+Version:         2.11.11.0
+Date:            11/26/2014
+Class GUID:      36FC9E60-c465-11cf-8056-444553540000
+----------------------------------------
+
+Original Folder: ssadadb2.inf_amd64_8c8c5b1266c646b9
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._USB_ssadadb2_5.30.14
+INF File:        ssadadb2.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    USB
+Version:         5.30.14.0
+Date:            11/30/2012
+Class GUID:      F72FE0D4-CBCB-407d-8814-9ED673D0DD6B
+----------------------------------------
+
+Original Folder: ssudmtp.inf_amd64_65000271087fa5b4
+New Folder:      SAMSUNG_Electronics_Co.,_Ltd._WPD_ssudmtp_2.11.11.
+INF File:        ssudmtp.inf
+Manufacturer:    SAMSUNG Electronics Co., Ltd.
+Device Class:    WPD
+Version:         2.11.11.0
+Date:            11/26/2014
+Class GUID:      EEC5AD98-8080-425f-922A-DABF3DE3F69A
+----------------------------------------
+
+Original Folder: ssm_mdm2.inf_amd64_8a6ed9e25774e477
+New Folder:      SAMSUNG_Electronics_Co.,Ltd._Modem_ssm_mdm2_5.12.0
+INF File:        ssm_mdm2.inf
+Manufacturer:    SAMSUNG Electronics Co.,Ltd.
+Device Class:    Modem
+Version:         5.12.0.0
+Date:            11/25/2009
+Class GUID:      4d36e96d-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: ss_mdm2.inf_amd64_cf1c4663ef7c9a1d
+New Folder:      SAMSUNG_Electronics_Co.,Ltd._Modem_ss_mdm2_5.00.0.
+INF File:        ss_mdm2.inf
+Manufacturer:    SAMSUNG Electronics Co.,Ltd.
+Device Class:    Modem
+Version:         5.00.0.0
+Date:            09/21/2009
+Class GUID:      4d36e96d-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: ssm_ser2.inf_amd64_90500022f5ee5502
+New Folder:      SAMSUNG_Electronics_Co.,Ltd._Ports_ssm_ser2_5.12.0
+INF File:        ssm_ser2.inf
+Manufacturer:    SAMSUNG Electronics Co.,Ltd.
+Device Class:    Ports
+Version:         5.12.0.0
+Date:            11/25/2009
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: ssdudfu.inf_amd64_72f5a9944a4aacbd
+New Folder:      SAMSUNG_Electronics_Co.,Ltd._USB_ssdudfu_5.28.6.0
+INF File:        ssdudfu.inf
+Manufacturer:    SAMSUNG Electronics Co.,Ltd.
+Device Class:    USB
+Version:         5.28.6.0
+Date:            06/01/2011
+Class GUID:      36fc9e60-c465-11cf-8056-444553540000
+----------------------------------------
+
+Original Folder: ss_bus.inf_amd64_6d955f904c10c7ea
+New Folder:      SAMSUNG_Electronics_Co.,Ltd._USB_ss_bus_5.00.0.0
+INF File:        ss_bus.inf
+Manufacturer:    SAMSUNG Electronics Co.,Ltd.
+Device Class:    USB
+Version:         5.00.0.0
+Date:            09/21/2009
+Class GUID:      36FC9E60-c465-11cf-8056-444553540000
+----------------------------------------
+
+Original Folder: ssm_bus.inf_amd64_282b82799728f1c6
+New Folder:      SAMSUNG_Electronics_Co.,Ltd._USB_ssm_bus_5.12.0.0
+INF File:        ssm_bus.inf
+Manufacturer:    SAMSUNG Electronics Co.,Ltd.
+Device Class:    USB
+Version:         5.12.0.0
+Date:            11/25/2009
+Class GUID:      36FC9E60-c465-11cf-8056-444553540000
+----------------------------------------
+
+Original Folder: mbtmdm.inf_amd64_72b3fac558336713
+New Folder:      Schunid_Modem_mbtmdm_2.6.5.0
+INF File:        mbtmdm.inf
+Manufacturer:    Schunid
+Device Class:    Modem
+Version:         2.6.5.0
+Date:            01/06/2011
+Class GUID:      4D36E96D-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: vasdevice.inf_amd64_546a3f7e4476b785
+New Folder:      ShiningMorning_Inc._MEDIA_vasdevice_1.0.0.0
+INF File:        vasdevice.inf
+Manufacturer:    ShiningMorning Inc.
+Device Class:    MEDIA
+Version:         1.0.0.0
+Date:            02/01/2011
+Class GUID:      4d36e96c-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: slabvcp.inf_amd64_d214d4db5e57a44b
+New Folder:      Silicon_Laboratories_Inc._Ports_slabvcp_6.7.3.350
+INF File:        slabvcp.inf
+Manufacturer:    Silicon Laboratories Inc.
+Device Class:    Ports
+Version:         6.7.3.350
+Date:            03/28/2016
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: silabser.inf_amd64_dfdf591955e10cae
+New Folder:      Silicon_Laboratories_Inc._Ports_silabser_10.1.8.24
+INF File:        silabser.inf
+Manufacturer:    Silicon Laboratories Inc.
+Device Class:    Ports
+Version:         10.1.8.2466
+Date:            06/20/2019
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: stmcdc.inf_amd64_9422b577b75e16b8
+New Folder:      STMicroelectronics_Ports_stmcdc_1.3.1
+INF File:        stmcdc.inf
+Manufacturer:    STMicroelectronics
+Device Class:    Ports
+Version:         1.3.1
+Date:            04/25/2010
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: st_accel.inf_amd64_240904467c075f18
+New Folder:      STMicroelectronics_System_st_accel_2.2.3.8
+INF File:        st_accel.inf
+Manufacturer:    STMicroelectronics
+Device Class:    System
+Version:         2.2.3.8
+Date:            06/09/2015
+Class GUID:      4d36e97d-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: synpd.inf_amd64_87a00973fdb41716
+New Folder:      Synaptics_Mouse_synpd_19.2.17.59
+INF File:        synpd.inf
+Manufacturer:    Synaptics
+Device Class:    Mouse
+Version:         19.2.17.59
+Date:            04/26/2017
+Class GUID:      4D36E96F-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: synpd.inf_amd64_db492cf28b5afbda
+New Folder:      Synaptics_Mouse_synpd_19.0.9.4
+INF File:        SynPD.inf
+Manufacturer:    Synaptics
+Device Class:    Mouse
+Version:         19.0.9.4
+Date:            05/27/2015
+Class GUID:      4D36E96F-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: synpd.inf_amd64_4d4fb9fa4192bad7
+New Folder:      Synaptics_Mouse_synpd_19.2.17.70
+INF File:        synpd.inf
+Manufacturer:    Synaptics
+Device Class:    Mouse
+Version:         19.2.17.70
+Date:            09/19/2018
+Class GUID:      4D36E96F-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: synsmbdrv.inf_amd64_76275ec4798220fd
+New Folder:      Synaptics_System_synsmbdrv_19.2.17.59
+INF File:        synsmbdrv.inf
+Manufacturer:    Synaptics
+Device Class:    System
+Version:         19.2.17.59
+Date:            04/26/2017
+Class GUID:      4d36e97d-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: synsmbdrv.inf_amd64_54e7e16bcca7dae3
+New Folder:      Synaptics_System_synsmbdrv_19.2.17.70
+INF File:        synsmbdrv.inf
+Manufacturer:    Synaptics
+Device Class:    System
+Version:         19.2.17.70
+Date:            06/27/2018
+Class GUID:      4d36e97d-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: oemvista.inf_amd64_a572b7f20c402d28
+New Folder:      TAP-Windows_Provider_V9_Net_oemvista_9.00.00.21
+INF File:        oemvista.inf
+Manufacturer:    TAP-Windows Provider V9
+Device Class:    Net
+Version:         9.00.00.21
+Date:            04/21/2016
+Class GUID:      4d36e972-e325-11ce-bfc1-08002be10318
+----------------------------------------
+
+Original Folder: ch341ser.inf_amd64_89e3544a870a2366
+New Folder:      wch.cn_Ports_ch341ser_3.5.2019.1
+INF File:        ch341ser.inf
+Manufacturer:    wch.cn
+Device Class:    Ports
+Version:         3.5.2019.1
+Date:            01/30/2019
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: ch341ser.inf_amd64_34a3206305b40d57
+New Folder:      wch.cn_Ports_ch341ser_3.9.2024.09
+INF File:        CH341SER.INF
+Manufacturer:    wch.cn
+Device Class:    Ports
+Version:         3.9.2024.09
+Date:            09/16/2024
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: ch343ser.inf_amd64_854b94233e76fc2e
+New Folder:      wch.cn_Ports_ch343ser_1.5.2021.8
+INF File:        ch343ser.inf
+Manufacturer:    wch.cn
+Device Class:    Ports
+Version:         1.5.2021.8
+Date:            08/08/2021
+Class GUID:      4D36E978-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+Original Folder: wintun.inf_amd64_8ed20477a29aa8f7
+New Folder:      WireGuard_LLC_Net_wintun_0.14.0.0
+INF File:        wintun.inf
+Manufacturer:    WireGuard LLC
+Device Class:    Net
+Version:         0.14.0.0
+Date:            10/13/2021
+Class GUID:      4D36E972-E325-11CE-BFC1-08002BE10318
+----------------------------------------
+
+
+SUMMARY STATISTICS
+========================================
+
+Drivers by Manufacturer:
+  SAMSUNG Electronics Co., Ltd.: 25
+  Intel: 8
+  SAMSUNG Electronics Co.,Ltd.: 6
+  Intel Corporation: 6
+  Synaptics: 5
+  Dell Technologies: 4
+  Microsoft Corporation: 4
+  Microsoft: 3
+  FTDI: 3
+  Samsung Electronics Co., LTD: 3
+  wch.cn: 3
+  Arduino LLC (www.arduino.cc): 3
+  NVIDIA: 3
+  libusb-win32: 3
+  Logitech: 2
+  Adobe: 2
+  Atmel Corp.: 2
+  mbed: 2
+  Icom: 2
+  PlanetCNC: 2
+  Logicool: 2
+  Prolific: 2
+  Silicon Laboratories Inc.: 2
+  STMicroelectronics: 2
+  MindVision: 2
+  NVIDIA Corporation: 1
+  EuMus Design: 1
+  Realtek Semiconduct Corp.: 1
+  PoLabs d.o.o.: 1
+  Schunid: 1
+  Eugene Muzychenko: 1
+  TAP-Windows Provider V9: 1
+  Icom Inc.: 1
+  dji-innovations inc.: 1
+  Fuzhou Rockchip: 1
+  Arduino Srl (www.arduino.org): 1
+  Arduino AG (www.arduino.cc): 1
+  Linino: 1
+  GoPro: 1
+  Brother: 1
+  MobileTop: 1
+  Hikvision: 1
+  Dell Technologies" ;TODO: Replace with your manufacturer name: 1
+  Canon: 1
+  Intel(R) Corporation: 1
+  Malwarebytes: 1
+  Intel Mobile Communications: 1
+  Lime Microsystems: 1
+  ShiningMorning Inc.: 1
+  Realtek Semiconductor Corp.: 1
+  WireGuard LLC: 1
+  Adafruit Industries LLC: 1
+  Dell: 1
+
+Drivers by Device Class:
+  Ports: 27
+  USB: 22
+  MEDIA: 9
+  Net: 9
+  Modem: 8
+  System: 8
+  Printer: 7
+  DellInstrumentation: 3
+  Bluetooth: 3
+  Mouse: 3
+  libusb-win32 devices: 3
+  Image: 3
+  Extension: 2
+  Display: 2
+  WPD: 2
+  SoftwareComponent: 2
+  HIDClass: 2
+  PlanetCNC: 2
+  USBDevice: 1
+  Rockusb Device: 1
+  MTD: 1
+  AndroidUsbDeviceClass: 1
+  PoLabsDOO: 1
+  NetService: 1
+  DellUtils ; TODO: edit Class: 1
+  Universal Serial Bus devices: 1
+  MvisionUSB: 1
+  MultiportSerial: 1
+  WCEUSBS: 1
+  SCSIAdapter: 1

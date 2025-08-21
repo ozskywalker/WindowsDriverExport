@@ -1,0 +1,10 @@
+[Version]
+Signature="$WINDOWS NT$"
+Provider=%REALTEK%
+Class=%NET_CLASS%
+ClassGuid={4D36E972-E325-11CE-BFC1-08002BE10318}
+DriverVer=05/15/2023,10.42.526.2020
+
+[Strings]
+REALTEK="Realtek Semiconductor Corp."
+NET_CLASS="Network adapters"
