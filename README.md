@@ -1,6 +1,6 @@
 # Windows Driver Export Script
 
-- Ever needed to export 3rd party drivers to use in a Recovery image like Hiren's Boot CD?
+- Ever needed to export 3rd party drivers to use in a Recovery image like [Hiren's Boot CD](https://www.hirensbootcd.org/)?
 - Ever needed a backup of that elusive 3rd party driver you can't source anymore?
 - Or you've already exported drivers using DISM or Powershell but have no clue what mbedcomposite_x64.inf_amd64_67eb7e5c383aa11b & ssudobex.inf_amd64_1dd3a2846c69bed0 relates to?
 
